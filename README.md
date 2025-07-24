@@ -14,7 +14,7 @@ An all-in-one Streamlit-based AI-powered application that brings together multip
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard]([screenshots/dashboard.png](https://github.com/kalambate241/final/blob/20bb3934df20e1b24f5f47c2061f3e4b81ee8f55/finalproject/screenshots/dashboard.png)
+![Dashboard](https://github.com/kalambate241/final/blob/20bb3934df20e1b24f5f47c2061f3e4b81ee8f55/finalproject/screenshots/dashboard.png)
 
 ### ATS
 ![ATS](https://github.com/kalambate241/final/blob/20bb3934df20e1b24f5f47c2061f3e4b81ee8f55/finalproject/screenshots/ats.png)
