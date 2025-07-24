@@ -45,14 +45,19 @@ An all-in-one Streamlit-based AI-powered application that brings together multip
 Clone the repository:
 
 git clone https://github.com/kalambate241/final.git
+
 cd ai-multi-tool-suite
 
 Install dependencies:
+
 pip install -r requirements.txt
+
 Run the application:
+
 streamlit run application.py
 
 > You can also run individual tools:
+
 streamlit run Background_remover✂️🖼️.py
 
 ---
