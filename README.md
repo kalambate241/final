@@ -44,7 +44,7 @@ An all-in-one Streamlit-based AI-powered application that brings together multip
 
 Clone the repository:
 
-git clone https://github.com/your-username/ai-multi-tool-suite.git
+git clone https://github.com/kalambate241/final.git
 cd ai-multi-tool-suite
 
 Install dependencies:
